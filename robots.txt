@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /voĉdosieroj/
+Disallow: /header.php
+Disallow: /footer.php
+Disallow: /grupoj.php
+Disallow: /sekretoj.php

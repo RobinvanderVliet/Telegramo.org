@@ -85,5 +85,5 @@ require_once("header.php");
 <?php akiriLigilon(array("dulingva hu", "dulingva la", "dulingva sw", "dulingva tr")); ?>
 
 <h4>Planlingvaj</h4>
-<?php akiriLigilon(array("dulingva artpandunia", "dulingva arttokipona", "dulingva io", "dulingva jbo", "dulingva tlh", "dulingva vo")); ?>
+<?php akiriLigilon(array("dulingva artpandunia", "dulingva arttokipona", "dulingva io", "dulingva jbo", "dulingva tlh", "dulingva vo", "dulingva aw", "dulingva ko")); ?>
 <?php require_once("footer.php"); ?>

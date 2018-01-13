@@ -16,15 +16,17 @@
         <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
+        
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 
         <style>
         body {
             padding-top: 75px;
             padding-bottom: 75px;
         }
-        img.emojione {
-            height: auto;
+        .emoji {
             width: 16px;
+            height: 16px;
         }
         </style>
     </head>
@@ -44,6 +46,7 @@
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav"> <!-- class="active" -->
                 <li><a href="index.php">Grupoj</a></li>
+                <li><a href="kanaloj.php">Kanaloj</a></li>
                 <li><a href="glumarkaroj.php">Glumarkaroj</a></li>
                 <li><a href="robotoj.php">Robotoj</a></li>
                 <li><a href="elŝuti.php">Elŝuti</a></li>
@@ -64,10 +67,11 @@
                 </li> -->
               </ul>
               <ul class="nav navbar-nav navbar-right">
+                <li><a href="https://github.com/RobinvanderVliet/Telegramo.org">GitHub</a></li>
                 <li><a href="https://twitter.com/telegram_eo">Twitter</a></li>
               </ul>
             </div><!--/.nav-collapse -->
           </div>
         </nav>
 
-        <div class="container">
+        <div class="container" id="container">

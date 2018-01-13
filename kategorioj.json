@@ -1,0 +1,184 @@
+{
+    "La ĉefaj Esperantaj grupoj": [
+        "esperantujo",
+        "voĉmesaĝejo"
+    ],
+    "Temaj Esperantaj grupoj": {
+        "Kulturo": [
+            "artumejo",
+            "dancoj",
+            "enlakuirejokuntelegramo",
+            "filozofio",
+            "flagoj",
+            "fotoj",
+            "glumarkujo",
+            "landoj",
+            "modo",
+            "muziko",
+            "ridigumin",
+            "sakurojkajcunderoj",
+            "sportoj"
+        ],
+        "Lingvoj": [
+            "esperantologio",
+            "lingvemuloj",
+            "literaturababilejo",
+            "skribsistemoj"
+        ],
+        "Ludoj": [
+            "homlupo",
+            "homlupoamnezia",
+            "kartojkontraŭesperantujo",
+            "ludemuloj",
+            "ludojenesperanto",
+            "minecraft",
+            "pokemongo",
+            "ŝakludantoj"
+        ],
+        "Agado": [
+            "agadujo",
+            "amikumu",
+            "laboren",
+            "muzaiko",
+            "pasportaservo",
+            "tejotelegrame",
+            "telegramo",
+            "varbado",
+            "vikipedioagado",
+            "zagrebametodo"
+        ],
+        "Homoj": [
+            "amikojdenaturo",
+            "amo",
+            "duolingo",
+            "egalecen",
+            "esperantoenfamilio",
+            "felanoj",
+            "glatajesperantistoj",
+            "korespondu",
+            "skoltismo",
+            "spiritismokajesperanto"
+        ],
+        "Eventoj": [
+            "ijk",
+            "jes",
+            "paralelauniverso",
+            "roskilde",
+            "uk"
+        ],
+        "Amaskomunikiloj": [
+            "heroldodeesperanto",
+            "kernpunkto",
+            "polaretradio"
+        ],
+        "Regionoj": [
+            "regiono afriko",
+            "regiono ameriko",
+            "regiono barcelono",
+            "regiono bavario",
+            "regiono berlino",
+            "regiono brazilo",
+            "regiono filadelfio",
+            "regiono francilio",
+            "regiono granado",
+            "regiono hamburgo",
+            "regiono hameleno",
+            "regiono hanovro",
+            "regiono irano",
+            "regiono kanarioj",
+            "regiono karejo",
+            "regiono portugalio",
+            "regiono rodanoalpoj",
+            "regiono stutgarto"
+        ],
+        "Aliaj": [
+            "anki",
+            "dormikajsonĝi",
+            "enigmoj",
+            "esperantokajteĥniko",
+            "filmtekstfarado",
+            "floramantoj",
+            "historio",
+            "hundoj",
+            "katoj",
+            "kino",
+            "kontraŭkapitalismo",
+            "korppozitiveco",
+            "lingvokonstruado",
+            "matematiko",
+            "reddit",
+            "religiopolitikokajaliajtiklajtemoj",
+            "rickandmorty",
+            "scienco",
+            "sekretajaferetoj",
+            "socialistojdeesperantujo",
+            "sputniko",
+            "stackexchange",
+            "steem",
+            "vivukajlasuvivi"
+        ]
+    },
+    "Dulingvaj grupoj por paroli la alian lingvon aŭ priparoli ĝin Esperante": {
+        "Ĝermanaj": {
+            "Nordĝermanaj": [
+                "dulingva da",
+                "dulingva is",
+                "dulingva no",
+                "dulingva sv"
+            ],
+            "Okcidentĝermanaj": [
+                "dulingva af",
+                "dulingva de",
+                "dulingva en",
+                "dulingva fy",
+                "dulingva nl"
+            ]
+        },
+        "Latinidaj": [
+            "dulingva ca",
+            "dulingva es",
+            "dulingva fr",
+            "dulingva it",
+            "dulingva ro"
+        ],
+        "Slavaj": [
+            "dulingva cs sk",
+            "dulingva pl",
+            "dulingva ru",
+            "dulingva uk"
+        ],
+        "Aziaj": [
+            "dulingva ar",
+            "dulingva fa",
+            "dulingva he",
+            "dulingva id",
+            "dulingva ja",
+            "dulingva ko"
+        ],
+        "Aliaj naturaj": [
+            "dulingva fi",
+            "dulingva gn",
+            "dulingva hu",
+            "dulingva la",
+            "dulingva lt",
+            "dulingva sw",
+            "dulingva tr"
+        ],
+        "Planlingvaj": {
+            "Artlingvoj": [
+                "dulingva artarwelo",
+                "dulingva arteglievalyria",
+                "dulingva arttokipona",
+                "dulingva jbo",
+                "dulingva tlh"
+            ],
+            "Helplingvoj": [
+                "dulingva artpandunia",
+                "dulingva avk",
+                "dulingva ia",
+                "dulingva io",
+                "dulingva vo"
+            ]
+        }
+    }
+}

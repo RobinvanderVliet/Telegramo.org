@@ -1,0 +1,5554 @@
+{
+    "esperantujo": {
+        "ligilo": "AkaBfzvfqSKs_M-crL-1Uw",
+        "identigilo": "-1001004513570",
+        "nomo": "Esperantujo 🍀",
+        "priskribo": "ĉefa grupego",
+        "membroj": 1453,
+        "administrantoj": [
+            {
+                "user": 38175103,
+                "status": "creator"
+            },
+            {
+                "user": 196125422,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 75536341,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 96761380,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "voĉmesaĝejo": {
+        "ligilo": "BBpAnzvsgZoVsVOVS6TpKQ",
+        "identigilo": "-1001005355418",
+        "nomo": "Voĉmesaĝejo 🎤",
+        "priskribo": "ĉefa grupego por sendi voĉmesaĝojn",
+        "membroj": 513,
+        "administrantoj": [
+            {
+                "user": 126338201,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 68829343,
+                "status": "creator"
+            },
+            {
+                "user": 164708181,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 45735612,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "dulingva en": {
+        "ligilo": "AAAAAD4BBWsjcXDKW3NDLA",
+        "identigilo": "-1001040254315",
+        "nomo": "Esperanto - English",
+        "priskribo": "por esperantistaj anglalingvanoj",
+        "membroj": 382,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 196125422,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 96761380,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 136424018,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 15834876,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "duolingo": {
+        "ligilo": "AAAAAEAUlQS_XC5TgmUPqg",
+        "identigilo": "-1001075090692",
+        "nomo": "Duolingo: Esperanto-lernantoj",
+        "priskribo": "por lernantoj de Duolingo",
+        "membroj": 348,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 196125422,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva es": {
+        "ligilo": "ACwW8z6AbN38mhU7WpU9sA",
+        "identigilo": "-1001048603869",
+        "nomo": "Esperanto - Español",
+        "priskribo": "por esperantistaj hispanlingvanoj",
+        "membroj": 285,
+        "administrantoj": [
+            {
+                "user": 13880950,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 152912565,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 145430448,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 152379985,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": false,
+                "can_delete_messages": false,
+                "can_invite_users": false,
+                "can_restrict_members": false,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 55260126,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 15834876,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 2889459,
+                "status": "creator"
+            },
+            {
+                "user": 6340977,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "amikumu": {
+        "ligilo": "C7Ci7kDqX1TgUXIVNPeT8g",
+        "identigilo": "-1001089101652",
+        "nomo": "Amikumu: apo por trovi e-istojn apude",
+        "priskribo": "pri la aplikaĵo Amikumu",
+        "membroj": 264,
+        "administrantoj": [
+            {
+                "user": 314072037,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 195926838,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 151989521,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 2889459,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 196125422,
+                "status": "creator"
+            }
+        ]
+    },
+    "muziko": {
+        "ligilo": "AZriqTx8amlMAZaXwAs2gw",
+        "identigilo": "-1001014786665",
+        "nomo": "Muziko 🎵",
+        "priskribo": "por paroli pri ĉia muziko",
+        "membroj": 257,
+        "administrantoj": [
+            {
+                "user": 136424018,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 114097399,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "literaturababilejo": {
+        "ligilo": "BnEs0z2HyCSWLSvx-_Y1Mg",
+        "identigilo": "-1001032308772",
+        "nomo": "Literatura babilejo",
+        "priskribo": "por paroli pri libroj",
+        "membroj": 246,
+        "administrantoj": [
+            {
+                "user": 233341501,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 108080339,
+                "status": "creator"
+            }
+        ]
+    },
+    "ridigumin": {
+        "ligilo": "APGe_D2DEtgBIgI4oI4Pdg",
+        "identigilo": "-1001032000216",
+        "nomo": "Ridigu min!",
+        "priskribo": "por amuzaj aferoj",
+        "membroj": 212,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 15834876,
+                "status": "creator"
+            }
+        ]
+    },
+    "esperantokajteĥniko": {
+        "ligilo": "APGe_D4DahXLVoxcdSjuBg",
+        "identigilo": "-1001040411157",
+        "nomo": "Esperanto kaj Teĥniko",
+        "priskribo": "por paroli pri teĥnikaj aferoj",
+        "membroj": 195,
+        "administrantoj": [
+            {
+                "user": 15834876,
+                "status": "creator"
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 3869571,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "glatajesperantistoj": {
+        "ligilo": "AkaBfzxjmGNlNvjh1IGcHA",
+        "identigilo": "-1001013160035",
+        "nomo": "🏳‍🌈 GLAT-aj esperantistoj 👬👭",
+        "priskribo": "por gejaj, lesbaj, ambaŭseksemaj kaj transgenraj esperantistoj",
+        "membroj": 193,
+        "administrantoj": [
+            {
+                "user": 131992978,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 148413887,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 38175103,
+                "status": "creator"
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 96761380,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "fotoj": {
+        "ligilo": "BUzHNz4dQr8aFi13iBZwNA",
+        "identigilo": "-1001042105023",
+        "nomo": "Fotoj 📷",
+        "priskribo": "por konigi belajn fotojn kun aliuloj",
+        "membroj": 186,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 115962813,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 136296487,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 62218347,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 124449136,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 116954811,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 172252715,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 136424018,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 114097399,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 85601469,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 108080339,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 6340977,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "lingvemuloj": {
+        "ligilo": "BnEs0z30ox7BEEZiU-Bi6Q",
+        "identigilo": "-1001039442718",
+        "nomo": "Lingvemuloj 🌐",
+        "priskribo": "por paroli aliajn lingvojn kaj paroli pri aliaj lingvoj",
+        "membroj": 178,
+        "administrantoj": [
+            {
+                "user": 145430448,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 108080339,
+                "status": "creator"
+            },
+            {
+                "user": 136424018,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "agadujo": {
+        "ligilo": "C7Ci7j94L-w_57Q3z9-eaw",
+        "identigilo": "-1001064841196",
+        "nomo": "Agadujo",
+        "priskribo": "por diskuti pri Esperantaj projektoj kaj la movado",
+        "membroj": 168,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 2889459,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 196125422,
+                "status": "creator"
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "dulingva fr": {
+        "ligilo": "BnEs0z8UBiqWLftwyd_5wA",
+        "identigilo": "-1001058276906",
+        "nomo": "Français kaj Esperanto",
+        "priskribo": "por esperantistaj franclingvanoj",
+        "membroj": 166,
+        "administrantoj": [
+            {
+                "user": 151989521,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 218542556,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 108080339,
+                "status": "creator"
+            }
+        ]
+    },
+    "religiopolitikokajaliajtiklajtemoj": {
+        "ligilo": "APGe_D2HlCk-Yt40zprJ9g",
+        "identigilo": "-1001032295465",
+        "nomo": "Religio, politiko kaj aliaj tiklaj temoj",
+        "priskribo": "por paroli pri tiaj tiklaj temoj",
+        "membroj": 160,
+        "administrantoj": [
+            {
+                "user": 305983943,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 15834876,
+                "status": "creator"
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            }
+        ]
+    },
+    "regiono brazilo": {
+        "ligilo": "AZriqT4I0Z_NEmvDi2ScRA",
+        "identigilo": "-1001040765343",
+        "nomo": "✳️ Esperanta Brazilo 🇧🇷🐊",
+        "priskribo": "por esperantistaj brazilanoj",
+        "membroj": 156,
+        "administrantoj": [
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 15834876,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 178859007,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 178233103,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 68075534,
+                "status": "creator"
+            },
+            {
+                "user": 103985776,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 38175103,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "sekretajaferetoj": {
+        "ligilo": "CCGqUj3DJStux8YsQXITBw",
+        "identigilo": "-1001036199211",
+        "nomo": "Sekretaj Aferetoj",
+        "priskribo": "por libere paroli pri fikaj kaj fekaj aferoj",
+        "membroj": 150,
+        "administrantoj": [
+            {
+                "user": 131992978,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 233341501,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 154817964,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 305983943,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 96761380,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 136424018,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva arttokipona": {
+        "ligilo": "AZriqT5raR1CUzb5fjzJFw",
+        "identigilo": "-1001047226653",
+        "nomo": "toki Epelanto en toki pona",
+        "priskribo": "por esperantistaj tokiponlingvanoj",
+        "membroj": 148,
+        "administrantoj": [
+            {
+                "user": 136424018,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 15834876,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva de": {
+        "ligilo": "AZriqT3dCX7SM5z-IMcOLw",
+        "identigilo": "-1001037896062",
+        "nomo": "Esperanto - Deutsch",
+        "priskribo": "por esperantistaj germanlingvanoj",
+        "membroj": 146,
+        "administrantoj": [
+            {
+                "user": 26927785,
+                "status": "creator"
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 2889459,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "scienco": {
+        "ligilo": "AZriqT8gNOvhwSy5c5PchA",
+        "identigilo": "-1001059075307",
+        "nomo": "Scienco",
+        "priskribo": "pri scienco",
+        "membroj": 146,
+        "administrantoj": [
+            {
+                "user": 45735612,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "regiono irano": {
+        "ligilo": "BwSzgj1tzhh8Ef1WASO61w",
+        "identigilo": "-1001030606360",
+        "nomo": "Iranaj Esperantistoj",
+        "priskribo": "por esperantistaj irananoj",
+        "membroj": 139,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": false,
+                "can_delete_messages": false,
+                "can_invite_users": true,
+                "can_restrict_members": false,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 117748610,
+                "status": "creator"
+            },
+            {
+                "user": 99497173,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            }
+        ]
+    },
+    "regiono ameriko": {
+        "ligilo": "\/esperantoameriko",
+        "identigilo": "-1001391280394",
+        "nomo": "Esperanto Ameriko",
+        "priskribo": "por esperantistaj amerikanoj",
+        "membroj": 130,
+        "administrantoj": [
+            {
+                "user": 222325424,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 245812113,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 178233103,
+                "status": "creator"
+            },
+            {
+                "user": 463767070,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 369239646,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "ludojenesperanto": {
+        "ligilo": "APGe_D3NXoVlHT3pBYAadA",
+        "identigilo": "-1001036869253",
+        "nomo": "Ludoj en Esperanto",
+        "priskribo": "por ludi Esperantajn ludojn",
+        "membroj": 127,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 15834876,
+                "status": "creator"
+            }
+        ]
+    },
+    "reddit": {
+        "ligilo": "BulzvUCta9bCi81ggWy2PA",
+        "identigilo": "-1001085107158",
+        "nomo": "\/r\/Esperanto kaj Reddit",
+        "priskribo": "por \/r\/Esperanto",
+        "membroj": 123,
+        "administrantoj": [
+            {
+                "user": 22292212,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 115962813,
+                "status": "creator"
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 238778735,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "sakurojkajcunderoj": {
+        "ligilo": "CCGqUj5BxMnTLnR5ygazZA",
+        "identigilo": "-1001044497609",
+        "nomo": "Sakuroj kaj Cunderoj 🌸",
+        "priskribo": "por diskuti animeojn, mangaojn kaj aliajn japanajn kulturaĵojn",
+        "membroj": 120,
+        "administrantoj": [
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 148413887,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 136424018,
+                "status": "creator"
+            },
+            {
+                "user": 108080339,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "ludemuloj": {
+        "ligilo": "BnEs0z8QrQCeVbYEwMO_mA",
+        "identigilo": "-1001058057472",
+        "nomo": "Ludemuloj",
+        "priskribo": "por paroli pri ludoj",
+        "membroj": 115,
+        "administrantoj": [
+            {
+                "user": 218542556,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 140939056,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 108080339,
+                "status": "creator"
+            },
+            {
+                "user": 196125422,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 136424018,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "esperantologio": {
+        "ligilo": "AZriqUKJfho6YIGdVgbOqg",
+        "identigilo": "-1001116306970",
+        "nomo": "Esperantologio",
+        "priskribo": "diskutoj pri gramatiko, etimologio kaj aliaj aferoj rilate Esperanton",
+        "membroj": 114,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 288379962,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": false,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "enlakuirejokuntelegramo": {
+        "ligilo": "C7Ci7j7yU5hhQwU9DO5Pgw",
+        "identigilo": "-1001056068504",
+        "nomo": "En la kuirejo kun Telegramo",
+        "priskribo": "por kunhavigi fotojn de manĝoj",
+        "membroj": 113,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 2889459,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 196125422,
+                "status": "creator"
+            },
+            {
+                "user": 233341501,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "tejotelegrame": {
+        "ligilo": "APGe_D9qp2nss74PhSuVZA",
+        "identigilo": "-1001063954281",
+        "nomo": "TEJO telegrame",
+        "priskribo": "pri agado de TEJO",
+        "membroj": 111,
+        "administrantoj": [
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 15834876,
+                "status": "creator"
+            },
+            {
+                "user": 11199013,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 178233103,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "egalecen": {
+        "ligilo": "DeiCPT_jdDhXwpnWkwncwA",
+        "identigilo": "-1001071871032",
+        "nomo": "Feminismo kaj egaleco",
+        "priskribo": "pri feminismo kaj egaleco",
+        "membroj": 107,
+        "administrantoj": [
+            {
+                "user": 131992978,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 305983943,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 296981969,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 233341501,
+                "status": "creator"
+            },
+            {
+                "user": 154817964,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            }
+        ]
+    },
+    "pasportaservo": {
+        "ligilo": "AAAAAEEz3jGiJp_UnZAuiw",
+        "identigilo": "-1001093918257",
+        "nomo": "Pasporta Servo",
+        "priskribo": "por Pasporta Servo",
+        "membroj": 104,
+        "administrantoj": [
+            {
+                "user": 296981969,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 101545138,
+                "status": "creator"
+            },
+            {
+                "user": 15834876,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "kernpunkto": {
+        "ligilo": "D-G19z905U_BU4jPf0GmVA",
+        "identigilo": "-1001064625487",
+        "nomo": "punkto.info aŭskultantoj",
+        "priskribo": "por aŭskultantoj de podkastoj de punkto.info",
+        "membroj": 104,
+        "administrantoj": [
+            {
+                "user": 266450423,
+                "status": "creator"
+            },
+            {
+                "user": 207228578,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "skribsistemoj": {
+        "ligilo": "APGe_D4L3reEroeY37-axw",
+        "identigilo": "-1001040965303",
+        "nomo": "Skribsistemoj ✏️",
+        "priskribo": "por paroli Esperante pri aliaj skribsistemoj aŭ eĉ per aliaj skribsistemoj",
+        "membroj": 95,
+        "administrantoj": [
+            {
+                "user": 15834876,
+                "status": "creator"
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "dulingva ru": {
+        "ligilo": "AAAAAEKtsYsWPmJXNvZ-uw",
+        "identigilo": "-1001118679435",
+        "nomo": "Ruslernantoj",
+        "priskribo": "por esperantistaj ruslingvanoj",
+        "membroj": 94,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 154817964,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 131992978,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva nl": {
+        "ligilo": "APGe_D45nkE0nLrxnQ5YzQ",
+        "identigilo": "-1001043963457",
+        "nomo": "Nederlands kaj Esperanto",
+        "priskribo": "por esperantistaj nederlandlingvanoj",
+        "membroj": 92,
+        "administrantoj": [
+            {
+                "user": 296981969,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 305983943,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 136424018,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 15834876,
+                "status": "creator"
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": false,
+                "can_delete_messages": false,
+                "can_invite_users": true,
+                "can_restrict_members": false,
+                "can_pin_messages": false,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            }
+        ]
+    },
+    "paralelauniverso": {
+        "ligilo": "C7Ci7j-Sd894YoTEiTQvOQ",
+        "identigilo": "-1001066563535",
+        "nomo": "Paralela Universo",
+        "priskribo": "por la amerika evento Paralela Universo",
+        "membroj": 91,
+        "administrantoj": [
+            {
+                "user": 61089971,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 206029014,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 196125422,
+                "status": "creator"
+            }
+        ]
+    },
+    "vikipedioagado": {
+        "ligilo": "CQ8tET7pcCXQSBO1ERPJug",
+        "identigilo": "-1001055485989",
+        "nomo": "Esperanto kaj Libera Scio (Vikipedio)",
+        "priskribo": "por Esperanta agado en Vikipedio",
+        "membroj": 90,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 151989521,
+                "status": "creator"
+            },
+            {
+                "user": 145874195,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "artumejo": {
+        "ligilo": "CCGqUj7RQ11gmQCBhH0F3A",
+        "identigilo": "-1001053901661",
+        "nomo": "Artumejo 🎨📝🎭",
+        "priskribo": "por krei kaj ĝui artaĵojn",
+        "membroj": 85,
+        "administrantoj": [
+            {
+                "user": 148413887,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 2889459,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 136424018,
+                "status": "creator"
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "glumarkujo": {
+        "ligilo": "Bg3G5T6wzk9ZIigIjjpCww",
+        "identigilo": "-1001051774543",
+        "nomo": "Glumarkujo",
+        "priskribo": "por sendi glumarkojn",
+        "membroj": 80,
+        "administrantoj": [
+            {
+                "user": 101566181,
+                "status": "creator"
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "dulingva ja": {
+        "ligilo": "B4fEmT9WB5J_nMUC2KVXSw",
+        "identigilo": "-1001062602642",
+        "nomo": "Esperanta 知恵袋",
+        "priskribo": "por esperantistaj japanlingvanoj",
+        "membroj": 79,
+        "administrantoj": [
+            {
+                "user": 126338201,
+                "status": "creator"
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 136424018,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "vivukajlasuvivi": {
+        "ligilo": "AVQm9EC1hhXnCm9vxYn-jw",
+        "identigilo": "-1001085638165",
+        "nomo": "🌱 Vivu kaj lasu vivi 🌱",
+        "priskribo": "por veganoj kaj vegetaranoj",
+        "membroj": 76,
+        "administrantoj": [
+            {
+                "user": 305983943,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": false,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 233341501,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": false,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 22292212,
+                "status": "creator"
+            }
+        ]
+    },
+    "homlupo": {
+        "ligilo": "B_jW9T7v7G2mFAtGNG6Lgg",
+        "identigilo": "-1001055911021",
+        "nomo": "Homlupo 🐺",
+        "priskribo": "por ludi la ludon Homlupo per roboto",
+        "membroj": 75,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 15834876,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 133748469,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva it": {
+        "ligilo": "CU8Q4kCsQP-ebj7gX3IcSQ",
+        "identigilo": "-1001085030655",
+        "nomo": "Esperanto - Italiano",
+        "priskribo": "por esperantistaj itallingvanoj",
+        "membroj": 75,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 156176610,
+                "status": "creator"
+            },
+            {
+                "user": 84221242,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "minecraft": {
+        "ligilo": "AAAAAEB_mfnRXPpqlJN6kQ",
+        "identigilo": "-1001082104313",
+        "nomo": "EsperaMondo.net - Esperanto en Minecraft",
+        "priskribo": "por la servilo EsperaMondo",
+        "membroj": 73,
+        "administrantoj": [
+            {
+                "user": 389987590,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 305898606,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva la": {
+        "ligilo": "ACwW8z4n5BzRsW8pusmQ0w",
+        "identigilo": "-1001042801692",
+        "nomo": "Lingua Esperantica - Lingua Latīna",
+        "priskribo": "por esperantistaj latinlingvanoj",
+        "membroj": 70,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 119180659,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 2889459,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva io": {
+        "ligilo": "AZriqUFTO0bTQ0iF2ktvXw",
+        "identigilo": "-1001095973702",
+        "nomo": "Esperanto - Ido",
+        "priskribo": "por esperantistoj kaj idistoj",
+        "membroj": 65,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 156318652,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 196125422,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva artpandunia": {
+        "ligilo": "APGe_EEjdrXFNPU02vKWSg",
+        "identigilo": "-1001092843189",
+        "nomo": "pandunia esperanto grup",
+        "priskribo": "por esperantistaj pandunialingvanoj",
+        "membroj": 64,
+        "administrantoj": [
+            {
+                "user": 305898606,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": false,
+                "can_invite_users": true,
+                "can_restrict_members": false,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 236445899,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 15834876,
+                "status": "creator"
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": false,
+                "can_invite_users": true,
+                "can_restrict_members": false,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            }
+        ]
+    },
+    "esperantoenfamilio": {
+        "ligilo": "CRUiUUFXZ4pPnCM_i-ixNQ",
+        "identigilo": "-1001096247178",
+        "nomo": "Esperanto en familio",
+        "priskribo": "por Esperanto en familio",
+        "membroj": 64,
+        "administrantoj": [
+            {
+                "user": 168584354,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 152379985,
+                "status": "creator"
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": false,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "dulingva ca": {
+        "ligilo": "ACwW8z98YIUT3c8AzGCY1w",
+        "identigilo": "-1001065115781",
+        "nomo": "La Kataluna - Esperanto",
+        "priskribo": "por esperantistaj katalunlingvanoj",
+        "membroj": 59,
+        "administrantoj": [
+            {
+                "user": 224700976,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 346168015,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 145430448,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 86857089,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 140802691,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 6340977,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 5858895,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 2889459,
+                "status": "creator"
+            },
+            {
+                "user": 4373625,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "lingvokonstruado": {
+        "ligilo": "AZriqUBK_9TjOdjjr6c-Gg",
+        "identigilo": "-1001078656980",
+        "nomo": "Lingvokonstruado kaj planlingvoj",
+        "priskribo": "por lingvokonstruantoj",
+        "membroj": 57,
+        "administrantoj": [
+            {
+                "user": 136424018,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 172252092,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva pl": {
+        "ligilo": "AAAAAD2SC2oxf76XoqdPlA",
+        "identigilo": "-1001032981354",
+        "nomo": "Esperanto - polski",
+        "priskribo": "por esperantistaj pollingvanoj",
+        "membroj": 54,
+        "administrantoj": [
+            {
+                "user": 15834876,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 136424018,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 114097399,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "kontraŭkapitalismo": {
+        "ligilo": "AAAAAEIj1q8Rxgs2e8fzBQ",
+        "identigilo": "-1001109644975",
+        "nomo": "Kontraŭkapitalismo",
+        "priskribo": "por esperantistaj kontraŭkapitalistoj",
+        "membroj": 54,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 22292212,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva sv": {
+        "ligilo": "AGedCz61jc-fOmUffBtM6A",
+        "identigilo": "-1001052085711",
+        "nomo": "Esperanto - Svenska",
+        "priskribo": "por esperantistaj svedlingvanoj",
+        "membroj": 53,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 203482684,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 6790411,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva jbo": {
+        "ligilo": "AAAAAD4jiwqlhSVEf9rDRA",
+        "identigilo": "-1001042516746",
+        "nomo": "Esperanto - la .lojban.",
+        "priskribo": "por esperantistaj loĵbanlingvanoj",
+        "membroj": 52,
+        "administrantoj": [
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 184177555,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 78998627,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 96761380,
+                "status": "creator"
+            }
+        ]
+    },
+    "amikojdenaturo": {
+        "ligilo": "AAAAAEE2KiU1w5CyOShn3g",
+        "identigilo": "-1001094068773",
+        "nomo": "Amikoj de naturo (ekologia vivstilo)",
+        "priskribo": "por ekologiaj esperantistoj",
+        "membroj": 50,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 131992978,
+                "status": "creator"
+            },
+            {
+                "user": 233341501,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "muzaiko": {
+        "ligilo": "DQax3EEuJHSJhmpploG6CQ",
+        "identigilo": "-1001093543028",
+        "nomo": "Muzaiko",
+        "priskribo": "por Muzaiko",
+        "membroj": 49,
+        "administrantoj": [
+            {
+                "user": 367316126,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 218542556,
+                "status": "creator"
+            },
+            {
+                "user": 207228578,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "historio": {
+        "ligilo": "AAAAAD7PbHBZb7WwFCATKA",
+        "identigilo": "-1001053781104",
+        "nomo": "Historio",
+        "priskribo": "por esperantistoj kiuj interesiĝas pri historio",
+        "membroj": 49,
+        "administrantoj": [
+            {
+                "user": 2889459,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 119180659,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva fa": {
+        "ligilo": "AAAAAEC_1-_VzuNgZkwjxw",
+        "identigilo": "-1001086314479",
+        "nomo": "Persuloj",
+        "priskribo": "por esperantistaj perslingvanoj",
+        "membroj": 48,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "landoj": {
+        "ligilo": "B94Nkj-iSyfatSbtldQrDA",
+        "identigilo": "-1001067600679",
+        "nomo": "Landoj",
+        "priskribo": "pri landoj kaj iliaj kulturoj",
+        "membroj": 48,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 131992978,
+                "status": "creator"
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            }
+        ]
+    },
+    "dulingva id": {
+        "ligilo": "AAAAAD9bJdrgJzyc_jMEdw",
+        "identigilo": "-1001062938074",
+        "nomo": "Esperanto - Indonesia",
+        "priskribo": "por esperantistaj indonezilingvanoj",
+        "membroj": 47,
+        "administrantoj": [
+            {
+                "user": 428745290,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 211031675,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 205505879,
+                "status": "creator"
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "felanoj": {
+        "ligilo": "CLHdE0FjR3HFvfX-RVZHog",
+        "identigilo": "-1001097025393",
+        "nomo": "Felanoj",
+        "priskribo": "por esperantistaj felanoj",
+        "membroj": 47,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": false,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 145874195,
+                "status": "creator"
+            },
+            {
+                "user": 69818061,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "telegramo": {
+        "ligilo": "AZriqUAkVmiyU_5JYlgx0A",
+        "identigilo": "-1001076123240",
+        "nomo": "Telegramo.org",
+        "priskribo": "pri Telegramo.org",
+        "membroj": 47,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            },
+            {
+                "user": 196125422,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "modo": {
+        "ligilo": "A9JIgz7m5TOnUorUwWCPWg",
+        "identigilo": "-1001055319347",
+        "nomo": "Modo Esperante",
+        "priskribo": "pri modo",
+        "membroj": 42,
+        "administrantoj": [
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 64112771,
+                "status": "creator"
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 196125422,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "ŝakludantoj": {
+        "ligilo": "APGe_D-LDRHzVozuOtQPFg",
+        "identigilo": "-1001066077457",
+        "nomo": "Ŝakludantoj",
+        "priskribo": "por organizi ŝakludojn",
+        "membroj": 40,
+        "administrantoj": [
+            {
+                "user": 196125422,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 15834876,
+                "status": "creator"
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "dulingva vo": {
+        "ligilo": "AAAAAD4qAg_stZ-POsl6LQ",
+        "identigilo": "-1001042940431",
+        "nomo": "Sperantapük e Volapük",
+        "priskribo": "por esperantistaj volapukistoj",
+        "membroj": 39,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "sportoj": {
+        "ligilo": "B69LNz-HlMrz6lrNs16sWQ",
+        "identigilo": "-1001065850058",
+        "nomo": "Sportoj",
+        "priskribo": "por paroli pri sportoj",
+        "membroj": 39,
+        "administrantoj": [
+            {
+                "user": 128928567,
+                "status": "creator"
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "korespondu": {
+        "ligilo": "AAAAAEK8lTPmlClnRoT9MA",
+        "identigilo": "-1001119655219",
+        "nomo": "Korespondu!",
+        "priskribo": "por trovi leteramikojn",
+        "membroj": 38,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 203482684,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 119180659,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva ia": {
+        "ligilo": "AAAAAEEag2N5rT4JyGs-6w",
+        "identigilo": "-1001092256611,",
+        "nomo": "Interlingua e Esperanto",
+        "priskribo": "por esperantistoj kaj interlingvaistoj",
+        "membroj": 38,
+        "administrantoj": [
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 148446478,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 115233034,
+                "status": "creator"
+            }
+        ]
+    },
+    "katoj": {
+        "ligilo": "AZriqUuTbYSvOulQ1BXKBg",
+        "identigilo": "-1001267953028",
+        "nomo": "Katoj 🐱",
+        "priskribo": "pri katoj",
+        "membroj": 38,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 305898606,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "jes": {
+        "ligilo": "AZriqUy_18F1kfSgXC3ptQ",
+        "identigilo": "-1001287641025",
+        "nomo": "JES, JES, JES! (2018\/2019)",
+        "priskribo": "por JES 2018-2019 en Storkow",
+        "membroj": 35,
+        "administrantoj": [
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "socialistojdeesperantujo": {
+        "ligilo": "CU8Q4kIXUV3EFuKNGx9Fww",
+        "identigilo": "-1001108824413",
+        "nomo": "Socialistoj de Esperantujo",
+        "priskribo": "por esperantistaj socialistoj",
+        "membroj": 35,
+        "administrantoj": [
+            {
+                "user": 156176610,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 294057710,
+                "status": "creator"
+            }
+        ]
+    },
+    "heroldodeesperanto": {
+        "ligilo": "DVdBw0CpRuKWGrVPfO0qaQ",
+        "identigilo": "-1001084835554",
+        "nomo": "Heroldo de Esperanto",
+        "priskribo": "por la Heroldo de Esperanto",
+        "membroj": 34,
+        "administrantoj": [
+            {
+                "user": 223822275,
+                "status": "creator"
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 196125422,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "filmtekstfarado": {
+        "ligilo": "\/filmtekstfarado",
+        "identigilo": "-1001074993930",
+        "nomo": "Filmtekstfarado",
+        "priskribo": "por subtekstigi filmojn",
+        "membroj": 34,
+        "administrantoj": [
+            {
+                "user": {
+                    "id": 93589888,
+                    "first_name": "EsperantoBot",
+                    "username": "EsperantoBot"
+                },
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": false,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": {
+                    "id": 218542556,
+                    "first_name": "Neil",
+                    "username": "bpeel",
+                    "language_code": "fr-FR"
+                },
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": {
+                    "id": 233341501,
+                    "first_name": "Charlotte",
+                    "last_name": "SL",
+                    "username": "CharlotteSL"
+                },
+                "status": "creator"
+            },
+            {
+                "user": {
+                    "id": 26927785,
+                    "first_name": "Robin",
+                    "last_name": "van der Vliet",
+                    "username": "Robin",
+                    "language_code": "eo"
+                },
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "dulingva he": {
+        "ligilo": "AAAAAECUejO6luF6RQxwkg",
+        "identigilo": "-1001083472435",
+        "nomo": "Esperanto Hebrea אספרנטו עברית 🇮🇱💚",
+        "priskribo": "por esperantistaj hebrelingvanoj",
+        "membroj": 34,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 92961542,
+                "status": "creator"
+            }
+        ]
+    },
+    "spiritismokajesperanto": {
+        "ligilo": "AAAAAESBIxVVpead3fax9g",
+        "identigilo": "-1001149313813",
+        "nomo": "Spiritismo en Esperanto",
+        "priskribo": "pri spiritismo Esperante",
+        "membroj": 33,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 293713307,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 103564490,
+                "status": "creator"
+            }
+        ]
+    },
+    "polaretradio": {
+        "ligilo": "Dlrubz7AsIXuSQc65oqQeg",
+        "identigilo": "-1001052815493",
+        "nomo": "Pola RetRadio",
+        "priskribo": "pri Pola RetRadio",
+        "membroj": 33,
+        "administrantoj": [
+            {
+                "user": 240840303,
+                "status": "creator"
+            },
+            {
+                "user": 196125422,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "regiono francilio": {
+        "ligilo": "DQax3EB8F8Hdp6ePXegwRw",
+        "identigilo": "-1001081874369",
+        "nomo": "Esperanto en Francilio (Paris \/ Île-de-france)",
+        "priskribo": "por esperantistaj francilianoj",
+        "membroj": 32,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 305898606,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 218542556,
+                "status": "creator"
+            }
+        ]
+    },
+    "ijk": {
+        "ligilo": "ACwW80AVOk0z6wQtBmU5cA",
+        "identigilo": "-1001075133005",
+        "nomo": "IJK 2018",
+        "priskribo": "por IJK 2018 en Badaĥozo",
+        "membroj": 30,
+        "administrantoj": [
+            {
+                "user": 7028862,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 11199013,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 140939056,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 136424018,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 140802691,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 253407904,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 11254349,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 9566207,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 2889459,
+                "status": "creator"
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 12885568,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 15834876,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "amo": {
+        "ligilo": "B94Nkglx2XU-8lRwT33bFQ",
+        "identigilo": "-1001303339763",
+        "nomo": "Amo kaj pluramemo ❤️",
+        "priskribo": "pri amo kaj pluramemo",
+        "membroj": 29,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 136424018,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 131992978,
+                "status": "creator"
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "flagoj": {
+        "ligilo": "AZriqUMVUUSnBKgkA0QnkQ",
+        "identigilo": "-1001125470532",
+        "nomo": "Flagoj 🚩",
+        "priskribo": "pri flagoj, veksilologio kaj rilataj temoj",
+        "membroj": 29,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva da": {
+        "ligilo": "CkReKz56HcLDyOfb4YOBOg",
+        "identigilo": "-1001048190402",
+        "nomo": "Esperanto - Dansk",
+        "priskribo": "por esperantistaj danlingvanoj",
+        "membroj": 28,
+        "administrantoj": [
+            {
+                "user": 172252715,
+                "status": "creator"
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "dulingva tr": {
+        "ligilo": "Bsz89z7xqiPbff1egKk8Rw",
+        "identigilo": "-1001056025123",
+        "nomo": "Türkçe - Esperanto",
+        "priskribo": "por esperantistaj turklingvanoj",
+        "membroj": 28,
+        "administrantoj": [
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 114097399,
+                "status": "creator"
+            }
+        ]
+    },
+    "pokemongo": {
+        "ligilo": "AAAAAD7AXdfXVrwqdxDwyQ",
+        "identigilo": "-1001052794327",
+        "nomo": "PokemonEK: Teamo Verda",
+        "priskribo": "por paroli pri Pokémon GO",
+        "membroj": 26,
+        "administrantoj": [
+            {
+                "user": 96761380,
+                "status": "creator"
+            },
+            {
+                "user": 136424018,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "stackexchange": {
+        "ligilo": "AAAAAD7cdn8QDC4919tPfw",
+        "identigilo": "-1001054635647",
+        "nomo": "Esperanto Language - Stack Exchange",
+        "priskribo": "por Esperanto ĉe Stack Exchange",
+        "membroj": 26,
+        "administrantoj": [
+            {
+                "user": 136424018,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "anki": {
+        "ligilo": "AAAAAEDOFvC9tfq0Mrzv4g",
+        "identigilo": "-1001087248112",
+        "nomo": "Anki-emuloj",
+        "priskribo": "por la libera memorigaplikaĵo Anki",
+        "membroj": 26,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 145430448,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva ar": {
+        "ligilo": "AfQBqj_yMFr-8UOI7RECmg",
+        "identigilo": "-1001072836698",
+        "nomo": "AREO",
+        "priskribo": "por esperantistaj arablingvanoj",
+        "membroj": 25,
+        "administrantoj": [
+            {
+                "user": 32768426,
+                "status": "creator"
+            }
+        ]
+    },
+    "sputniko": {
+        "ligilo": "\/sputniko",
+        "identigilo": "-1001058361667,",
+        "nomo": "Rondo Sputniko",
+        "priskribo": "pri la kosmo, satelitoj kaj sputnikoj",
+        "membroj": 24,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 34765986,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 1170260,
+                "status": "creator"
+            },
+            {
+                "user": 3735487,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "dulingva cs sk": {
+        "ligilo": "CLHdEz_IAru4-1sO-JfuXQ",
+        "identigilo": "-1001070072507",
+        "nomo": "Esperanto sk-cs",
+        "priskribo": "por esperantistaj ĉeĥlingvanoj kaj slovaklingvanoj",
+        "membroj": 24,
+        "administrantoj": [
+            {
+                "user": 323980464,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": false,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 145874195,
+                "status": "creator"
+            },
+            {
+                "user": 289786583,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "varbado": {
+        "ligilo": "AAAAAEKIUr7qmK_xpjLKvg",
+        "identigilo": "-1001116230334",
+        "nomo": "Varbado",
+        "priskribo": "por diskuti kaj agadi pri la disvastigado de Esperanto",
+        "membroj": 24,
+        "administrantoj": [
+            {
+                "user": 305983943,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 203482684,
+                "status": "creator"
+            }
+        ]
+    },
+    "skoltismo": {
+        "ligilo": "AZriqT_GRoGaK_a9B3-0VQ",
+        "identigilo": "-1001069958785",
+        "nomo": "Skoltismo ⚜",
+        "priskribo": "por kaj pri skoltoj",
+        "membroj": 24,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "regiono barcelono": {
+        "ligilo": "ACwW80BWXj_aPYy9WGiVhQ",
+        "identigilo": "-1001079402047",
+        "nomo": "Barcelono kaj ĉirkaŭaĵoj",
+        "priskribo": "por esperantistaj barcelonanoj",
+        "membroj": 24,
+        "administrantoj": [
+            {
+                "user": 2889459,
+                "status": "creator"
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "kino": {
+        "ligilo": "AAAAAEDcXUQv-lEcDBbAtg",
+        "identigilo": "-1001088183620",
+        "nomo": "Kino",
+        "priskribo": "por kino",
+        "membroj": 24,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 128928567,
+                "status": "creator"
+            }
+        ]
+    },
+    "roskilde": {
+        "ligilo": "AAAAAEMQ8IZlLwmGTytH0g",
+        "identigilo": "-1001125183622",
+        "nomo": "Roskilde Festivalo",
+        "priskribo": "por la Roskilde-festivalo",
+        "membroj": 24,
+        "administrantoj": [
+            {
+                "user": 377506642,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 257226155,
+                "status": "creator"
+            }
+        ]
+    },
+    "matematiko": {
+        "ligilo": "BxqNc0N1FHlPNerIwYg-aQ",
+        "identigilo": "-1001131746425",
+        "nomo": "Matematikumu",
+        "priskribo": "pri matematiko",
+        "membroj": 22,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 119180659,
+                "status": "creator"
+            }
+        ]
+    },
+    "regiono hameleno": {
+        "ligilo": "\/Esperanto_Hameln",
+        "identigilo": "-1001088998630",
+        "nomo": "Esperanto Hameln",
+        "priskribo": "por esperantistaj hamelenanoj",
+        "membroj": 21,
+        "administrantoj": [
+            {
+                "user": 217102790,
+                "status": "creator"
+            }
+        ]
+    },
+    "regiono hanovro": {
+        "ligilo": "\/esperanto_hannover",
+        "identigilo": "-1001051845601",
+        "nomo": "Esperanto Hannover",
+        "priskribo": "por esperantistaj hanovranoj",
+        "membroj": 20,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 154817964,
+                "status": "creator"
+            }
+        ]
+    },
+    "regiono berlino": {
+        "ligilo": "\/BerlinEsperanto",
+        "identigilo": "-1001088244259",
+        "nomo": "Berlin Esperanto",
+        "priskribo": "por esperantistaj berlinanoj",
+        "membroj": 20,
+        "administrantoj": [
+            {
+                "user": 196125422,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 86771627,
+                "status": "creator"
+            }
+        ]
+    },
+    "zagrebametodo": {
+        "ligilo": "D1T1q0CwBgvrx8lsx5t6Bg",
+        "identigilo": "-1001085277707",
+        "nomo": "Zagreba Metodo",
+        "priskribo": "por traduki kaj komenti learn.esperanto.com",
+        "membroj": 19,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 257226155,
+                "status": "creator"
+            }
+        ]
+    },
+    "homlupoamnezia": {
+        "ligilo": "APGe_D-U1c-M1mL5Pg8vAg",
+        "identigilo": "-1001066718671",
+        "nomo": "Forgesemuloj (Homlupo amnezia)",
+        "priskribo": "por ludi la ludon Homlupo Amnezia per roboto",
+        "membroj": 19,
+        "administrantoj": [
+            {
+                "user": 133748469,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 15834876,
+                "status": "creator"
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "dormikajsonĝi": {
+        "ligilo": "EjukbkqqoYCFW651dfwxTw",
+        "identigilo": "-1001252696448",
+        "nomo": "Dormi kaj Sonĝi 😴🌟",
+        "priskribo": "pri dormado, sonĝoj kaj ĉio rilata",
+        "membroj": 19,
+        "administrantoj": [
+            {
+                "user": 305898606,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva tlh": {
+        "ligilo": "DeiCPT7-8WypYCsHnlZpXA",
+        "identigilo": "-1001056895340",
+        "nomo": "'eSperanto' Hol tlhIngan Hol je (Klingon)",
+        "priskribo": "por esperantistaj klingonlingvanoj",
+        "membroj": 18,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 233341501,
+                "status": "creator"
+            },
+            {
+                "user": 196125422,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "enigmoj": {
+        "ligilo": "AAAAAEIcnOLL4LFXgYvgjw",
+        "identigilo": "-1001109171426",
+        "nomo": "Enigmoj",
+        "priskribo": "por enigmoj",
+        "membroj": 18,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 119180659,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva is": {
+        "ligilo": "CNxIpz6e74mxFdYemKIdng",
+        "identigilo": "-1001050603401",
+        "nomo": "Esperanto - Íslenska",
+        "priskribo": "por esperantistaj islandlingvanoj",
+        "membroj": 17,
+        "administrantoj": [
+            {
+                "user": 115962813,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 148654247,
+                "status": "creator"
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "korppozitiveco": {
+        "ligilo": "B94Nkj_sQYabjXnJM7ww9A",
+        "identigilo": "-1001072447878",
+        "nomo": "Korp-pozitiveco",
+        "priskribo": "grupo pri korpopozitiveco",
+        "membroj": 17,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 131992978,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 136424018,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 119180659,
+                "status": "creator"
+            }
+        ]
+    },
+    "kartojkontraŭesperantujo": {
+        "ligilo": "AZriqT_OXVJDeZ9qUaDCBQ",
+        "identigilo": "-1001070488914",
+        "nomo": "Kartoj kontraŭ Esperantujo",
+        "priskribo": "por la ludo Kartoj kontraŭ Esperantujo",
+        "membroj": 16,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 257226155,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "regiono bavario": {
+        "ligilo": "DRPvTz8zqD-FNIQt0QPyqQ",
+        "identigilo": "-1001060350015",
+        "nomo": "Esperanto en Bavario",
+        "priskribo": "por esperantistaj bavarianoj",
+        "membroj": 16,
+        "administrantoj": [
+            {
+                "user": 22423307,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 219410255,
+                "status": "creator"
+            },
+            {
+                "user": 205610027,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "regiono hamburgo": {
+        "ligilo": "\/hamburgeo",
+        "identigilo": "-1001094520993",
+        "nomo": "Hamburg Esperanto",
+        "priskribo": "por esperantistaj hamburganoj",
+        "membroj": 16,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 233341501,
+                "status": "creator"
+            },
+            {
+                "user": 196125422,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "dulingva ko": {
+        "ligilo": "AAAAAD7naRdzdaAZzh3skA",
+        "identigilo": "-1001055353111",
+        "nomo": "에스페란토와 한국어",
+        "priskribo": "por esperantistaj korelingvanoj",
+        "membroj": 16,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva hu": {
+        "ligilo": "ED7aZ0C43esOgFktc1lqAw",
+        "identigilo": "-1001085857259",
+        "nomo": "Esperanto - Magyar",
+        "priskribo": "por esperantistaj hungarlingvanoj",
+        "membroj": 16,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 272554599,
+                "status": "creator"
+            }
+        ]
+    },
+    "floramantoj": {
+        "ligilo": "ACwW8wwPjOl0DL622UnOIQ",
+        "identigilo": "-1001208141470",
+        "nomo": "Flor-amantoj 💐",
+        "priskribo": "pri floroj",
+        "membroj": 16,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 136424018,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 2889459,
+                "status": "creator"
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            }
+        ]
+    },
+    "regiono karejo": {
+        "ligilo": "AVQm9EC3a0KMMpJcNGYT6Q",
+        "identigilo": "-1001085762370",
+        "nomo": "KarEJO",
+        "priskribo": "por la Karioka (Rio-de-Ĵanejra) Esperantista Junulara Organizo",
+        "membroj": 15,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 22292212,
+                "status": "creator"
+            }
+        ]
+    },
+    "regiono filadelfio": {
+        "ligilo": "AAAAAELFbFG0ohwCxPP15Q",
+        "identigilo": "-1001120234577",
+        "nomo": "Filadelfio!",
+        "priskribo": "por esperantistoj de Filadelfio",
+        "membroj": 15,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 315253773,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 191136140,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 196125422,
+                "status": "creator"
+            },
+            {
+                "user": 148413887,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "uk": {
+        "ligilo": "AZriqURjf0RBZ7QwcSsJQA",
+        "identigilo": "-1001147371332",
+        "nomo": "UK 2018",
+        "priskribo": "por UK 2018 en Lisbono",
+        "membroj": 14,
+        "administrantoj": [
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva gn": {
+        "ligilo": "AAAAAEHh-s8GHH75Df2dEw",
+        "identigilo": "-1001105328847",
+        "nomo": "Esperanto - avañe'ẽ",
+        "priskribo": "por esperantistaj gvaranilingvanoj",
+        "membroj": 14,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 145430448,
+                "status": "creator"
+            }
+        ]
+    },
+    "steem": {
+        "ligilo": "APGe_ECuY63aRMs-FfzyFg",
+        "identigilo": "-1001085170605",
+        "nomo": "Steem-uzantoj",
+        "priskribo": "por uzantoj de Steem",
+        "membroj": 14,
+        "administrantoj": [
+            {
+                "user": 15834876,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva ro": {
+        "ligilo": "Cv60_w6kFAZPd1BB8iJ2SQ",
+        "identigilo": "-1001137204409",
+        "nomo": "RO_EO",
+        "priskribo": "por esperantistaj rumanlingvanoj",
+        "membroj": 14,
+        "administrantoj": [
+            {
+                "user": 184464639,
+                "status": "creator"
+            }
+        ]
+    },
+    "laboren": {
+        "ligilo": "EbOV0RI2aECQRfxcaOokmA",
+        "identigilo": "-1001151751622",
+        "nomo": "#LaBoRen: Organiza helpo-kanalo",
+        "priskribo": "por pridiskuti la defiojn de organizado de junularaj Esperanto-renkontiĝoj",
+        "membroj": 14,
+        "administrantoj": [
+            {
+                "user": 296981969,
+                "status": "creator"
+            }
+        ]
+    },
+    "regiono rodanoalpoj": {
+        "ligilo": "DQax3D-AMFLTB6-9mJzVNA",
+        "identigilo": "-1001065365586",
+        "nomo": "Esperanto en Rhône-Alpes",
+        "priskribo": "por esperantistoj de Rodano-Alpoj",
+        "membroj": 13,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 218542556,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva sw": {
+        "ligilo": "CCGqUkCquiAs4oDCVhDy7A",
+        "identigilo": "-1001084930592",
+        "nomo": "Kiesperanto na Kiswahili",
+        "priskribo": "por esperantistaj svahilalingvanoj",
+        "membroj": 13,
+        "administrantoj": [
+            {
+                "user": 136424018,
+                "status": "creator"
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "regiono afriko": {
+        "ligilo": "AAAAAESLJMxXQRkDwq-KiQ",
+        "identigilo": "-1001149969612",
+        "nomo": "Afrika Esperanto",
+        "priskribo": "por esperantistaj afrikanoj",
+        "membroj": 12,
+        "administrantoj": [
+            {
+                "user": 189158249,
+                "status": "creator"
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "regiono kanarioj": {
+        "ligilo": "D1T1q1M4rEsOAXjbsQj2qg",
+        "identigilo": "-1001396223051",
+        "nomo": "Kanarioj",
+        "priskribo": "por esperantistaj kanarianoj",
+        "membroj": 12,
+        "administrantoj": [
+            {
+                "user": 210658551,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 257226155,
+                "status": "creator"
+            }
+        ]
+    },
+    "dancoj": {
+        "ligilo": "Ejzxx0J0J16i6rfwyk_pyA",
+        "identigilo": "-1001114908510",
+        "nomo": "Dancoj",
+        "priskribo": "pri dancoj kaj dancado",
+        "membroj": 11,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 305983943,
+                "status": "creator"
+            }
+        ]
+    },
+    "rickandmorty": {
+        "ligilo": "ACwW80C2gdTnAWRe9kS3-A",
+        "identigilo": "-1001085702612",
+        "nomo": "Solenya 🥒",
+        "priskribo": "por amantoj de Rick and Morty",
+        "membroj": 11,
+        "administrantoj": [
+            {
+                "user": 2889459,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva af": {
+        "ligilo": "AZriqUA_Xr8OJ3cstW_8MA",
+        "identigilo": "-1001077894847",
+        "nomo": "Esperanto - Afrikaans",
+        "priskribo": "por esperantistaj afrikanslingvanoj",
+        "membroj": 11,
+        "administrantoj": [
+            {
+                "user": 172252092,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            },
+            {
+                "user": 15834876,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "dulingva arteglievalyria": {
+        "ligilo": "AZriqUHRJq2CB8-YmBEEaA",
+        "identigilo": "-1001104225965",
+        "nomo": "Esperanto - Eglie Valyria",
+        "priskribo": "por esperantistaj parolantoj de la altvaliria",
+        "membroj": 10,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "regiono stutgarto": {
+        "ligilo": "\/Esperanto_Stuttgart",
+        "identigilo": "-1001067231241",
+        "nomo": "Esperanto Stuttgart",
+        "priskribo": "por esperantistaj stutgartanoj",
+        "membroj": 10,
+        "administrantoj": [
+            {
+                "user": 266450423,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 207228578,
+                "status": "creator"
+            },
+            {
+                "user": 230326763,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "dulingva uk": {
+        "ligilo": "GBwThUKq3H7Boc55jJpytQ",
+        "identigilo": "-1001118493822",
+        "nomo": "Esperanto kaj Ukraina",
+        "priskribo": "por esperantistaj ukrainlingvanoj",
+        "membroj": 10,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 404493189,
+                "status": "creator"
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            }
+        ]
+    },
+    "dulingva avk": {
+        "ligilo": "GrQWOEM5ePal3RMhV-SDOw",
+        "identigilo": "-1001127839990",
+        "nomo": "Kotava is Esperanto",
+        "priskribo": "por esperantistaj kotavlingvanoj",
+        "membroj": 9,
+        "administrantoj": [
+            {
+                "user": 448009784,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva no": {
+        "ligilo": "B9kYMkOCO5-LI31SQrcgQA",
+        "identigilo": "-1001132608415",
+        "nomo": "Esperanto - Norsk",
+        "priskribo": "por esperantistaj norveglingvanoj",
+        "membroj": 9,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 131668018,
+                "status": "creator"
+            },
+            {
+                "user": 26927785,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            }
+        ]
+    },
+    "dulingva fy": {
+        "ligilo": "AZriqULciZu10AstJfFLlQ",
+        "identigilo": "-1001121749403",
+        "nomo": "Esperanto - Frysk",
+        "priskribo": "por esperantistaj frislingvanoj",
+        "membroj": 9,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva artarwelo": {
+        "ligilo": "AAAAAEO3ARhPZ8YoGShD7g",
+        "nomo": "arwelo i esperanto",
+        "priskribo": "por esperantistaj arvellingvanoj",
+        "membroj": 8
+    },
+    "dulingva lt": {
+        "ligilo": "E2a7QkLCHb3ePdTR00YFwQ",
+        "identigilo": "-1001120017853",
+        "nomo": "Lietuvių kalba ir Esperanto :: La litova kaj Esperanto",
+        "priskribo": "por esperantistaj litovlingvanoj",
+        "membroj": 8
+    },
+    "hundoj": {
+        "ligilo": "AZriqQ4lzCf__LhGSZl73w",
+        "identigilo": "-1001344662526",
+        "nomo": "Hundoj 🐶",
+        "priskribo": "pri hundoj",
+        "membroj": 8,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 305898606,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "regiono portugalio": {
+        "ligilo": "DGiWqRF_SqBemr28-DrN-A",
+        "identigilo": "-1001141031257",
+        "nomo": "Esperanto portugalie",
+        "priskribo": "por esperantistaj portugaloj",
+        "membroj": 7,
+        "administrantoj": [
+            {
+                "user": 71124434,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            },
+            {
+                "user": 208180905,
+                "status": "creator"
+            },
+            {
+                "user": 8402673,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": false
+            }
+        ]
+    },
+    "regiono granado": {
+        "ligilo": "ACwW80MZ_wC4zh5MgO93nA",
+        "nomo": "Granadaj Mojosuloj!",
+        "priskribo": "por esperantistaj granadanoj",
+        "membroj": 7
+    },
+    "filozofio": {
+        "ligilo": "AZriqVIfETc6l1IOtZ-XEg",
+        "identigilo": "-1001377767735",
+        "nomo": "Filozofio 🤔",
+        "priskribo": "por esperantistaj filozofoj",
+        "membroj": 7,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 377539278,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    },
+    "dulingva fi": {
+        "ligilo": "AZriqUtrgMQr8J305G3xqQ",
+        "identigilo": "-1001265336516",
+        "nomo": "Esperanto - Suomi",
+        "priskribo": "por esperantistaj finnlingvanoj",
+        "membroj": 5,
+        "administrantoj": [
+            {
+                "user": 93589888,
+                "status": "administrator",
+                "can_be_edited": false,
+                "can_change_info": true,
+                "can_delete_messages": true,
+                "can_invite_users": true,
+                "can_restrict_members": true,
+                "can_pin_messages": true,
+                "can_promote_members": true
+            },
+            {
+                "user": 26927785,
+                "status": "creator"
+            }
+        ]
+    }
+}

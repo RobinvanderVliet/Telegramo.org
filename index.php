@@ -21,8 +21,8 @@ function akiriLigilon($ŝlosiloj) {
 			$mteksto = sprintf(" <small><i>(%d membroj)</i></small>", $m);
 		}
 		$eligo[] = array(
-		"teksto" => sprintf("<li><a class=\"emoji\" href=\"https://t.me%s%s\">%s</a> - %s%s</li>",
-			$tme, $grupo["ligilo"], $grupo["nomo"], $grupo["priskribo"], $mteksto),
+		"teksto" => sprintf("<li><a class=\"emoji kasxitaLigilo\" href=\"#%s\">%s</a> - %s%s</li>",
+			base64_encode($tme . $grupo["ligilo"]), $grupo["nomo"], $grupo["priskribo"], $mteksto),
 		"ordo" => $m);
 	}
 
@@ -62,6 +62,22 @@ require_once("header.php");
 <?php
 
 printiLigilojn(3, $kategorioj);
+
+# Malkaŝu la ligilojn per JavaScript. La teorio estas ke aŭtomata
+# roboto kiu skanas la paĝon por ligiloj malprobable povus ruli la
+# skripton por malkaŝi la ligilon.
+?>
+<script type="text/javascript">
+(function(){
+	var elementoj = document.getElementsByClassName("kasxitaLigilo");
+	var i;
+	for (i = 0; i < elementoj.length; i++) {
+		var kodo = elementoj[i].href.replace(/.*#/, '');
+		elementoj[i].href = "http://t.me" + atob(kodo);
+	}
+})();
+</script>
+<?php
 
 require_once("footer.php");
 

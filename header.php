@@ -22,13 +22,33 @@
         <style>
         :root {
           --esperanta-verdo: #009900;
+          --esperanta-verdo-malheligxe: #007300;
+          --esperanta-verdo-plimalheligxe: #006600;
         }
         body {
             padding-top: 75px;
             padding-bottom: 75px;
         }
+        a {
+          color: var(--esperanta-verdo);
+        }
+        a:hover {
+          color: var(--esperanta-verdo-malheligxe);
+        }
         .bg-primary {
           background-color: var(--esperanta-verdo)!important;
+        }
+        .btn-primary {
+          background-color: var(--esperanta-verdo);
+          border-color: var(--esperanta-verdo);
+        }
+        .btn-primary:hover {
+          background-color: var(--esperanta-verdo-malheligxe);
+          border-color: var(--esperanta-verdo-malheligxe);
+        }
+        .btn-primary:not(:disabled):not(.disabled):active {
+          background-color: var(--esperanta-verdo-plimalheligxe);
+          border-color: var(--esperanta-verdo-plimalheligxe);
         }
         .emoji {
             width: 16px;

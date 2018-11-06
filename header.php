@@ -16,13 +16,19 @@
         <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
-        
+
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 
         <style>
+        :root {
+          --esperanta-verdo: #009900;
+        }
         body {
             padding-top: 75px;
             padding-bottom: 75px;
+        }
+        .bg-primary {
+          background-color: var(--esperanta-verdo)!important;
         }
         .emoji {
             width: 16px;
@@ -32,45 +38,39 @@
     </head>
     <body>
         <!-- Fixed navbar -->
-        <nav class="navbar navbar-default navbar-fixed-top">
-          <div class="container">
-            <div class="navbar-header">
-              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-              </button>
-              <a class="navbar-brand">Telegramo.org</a>
-            </div>
-            <div id="navbar" class="navbar-collapse collapse">
-              <ul class="nav navbar-nav"> <!-- class="active" -->
-                <li><a href="index.php">Grupoj</a></li>
-                <li><a href="kanaloj.php">Kanaloj</a></li>
-                <li><a href="glumarkaroj.php">Glumarkaroj</a></li>
-                <li><a href="robotoj.php">Robotoj</a></li>
-                <li><a href="elŝuti.php">Elŝuti</a></li>
-                <!--<li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Manlibroj <span class="caret"></span></a>
-                  <ul class="dropdown-menu">
-                    <li class="dropdown-header">Telegram</li>
-                    <li><a href="#">Krei konton</a></li>
-                    <li><a href="#">Aldoni profilbildon</a></li>
-                    <li><a href="#">Ŝanĝi uzantnomon</a></li>
-                    <li role="separator" class="divider"></li>
-                    <li class="dropdown-header">Esperanto</li>
-                    <li><a href="#">Aliĝi al grupoj</a></li>
-                    <li><a href="#">Aldoni glumarkarojn</a></li>
-                    <li><a href="#">Krei novan grupon</a></li>
-                    <li><a href="#">Uzi Esperantan tradukon</a></li>
-                  </ul>
-                </li> -->
-              </ul>
-              <ul class="nav navbar-nav navbar-right">
-                <li><a href="https://github.com/RobinvanderVliet/Telegramo.org">GitHub</a></li>
-                <li><a href="https://twitter.com/telegram_eo">Twitter</a></li>
-              </ul>
-            </div><!--/.nav-collapse -->
+        <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+          <a class="navbar-brand" href="/">Telegramo.org</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="nav navbar-nav mr-auto"> <!-- class="active" -->
+              <li class="nav-item"><a class="nav-link" href="index.php">Grupoj</a></li>
+              <li class="nav-item"><a class="nav-link" href="kanaloj.php">Kanaloj</a></li>
+              <li class="nav-item"><a class="nav-link" href="glumarkaroj.php">Glumarkaroj</a></li>
+              <li class="nav-item"><a class="nav-link" href="robotoj.php">Robotoj</a></li>
+              <li class="nav-item"><a class="nav-link" href="elŝuti.php">Elŝuti</a></li>
+              <!--<li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Manlibroj <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li class="dropdown-header">Telegram</li>
+                  <li><a href="#">Krei konton</a></li>
+                  <li><a href="#">Aldoni profilbildon</a></li>
+                  <li><a href="#">Ŝanĝi uzantnomon</a></li>
+                  <li role="separator" class="divider"></li>
+                  <li class="dropdown-header">Esperanto</li>
+                  <li><a href="#">Aliĝi al grupoj</a></li>
+                  <li><a href="#">Aldoni glumarkarojn</a></li>
+                  <li><a href="#">Krei novan grupon</a></li>
+                  <li><a href="#">Uzi Esperantan tradukon</a></li>
+                </ul>
+              </li> -->
+            </ul>
+            <ul class="nav navbar-nav">
+              <li class="nav-item"><a class="nav-link" href="https://github.com/RobinvanderVliet/Telegramo.org">GitHub</a></li>
+              <li class="nav-item"><a class="nav-link" href="https://twitter.com/telegram_eo">Twitter</a></li>
+            </ul>
           </div>
         </nav>
 

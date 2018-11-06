@@ -94,4 +94,6 @@
           </div>
         </nav>
 
-        <div class="container" id="container">
+        <div class="container-fluid" id="container">
+          <div class="row">
+            <div class="col-lg-9 mx-auto">

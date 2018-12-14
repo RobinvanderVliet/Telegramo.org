@@ -1,5 +1,6 @@
 User-agent: *
-Disallow: /voĉdosieroj/
+Disallow: /sondosieroj/
+Disallow: /grupbildoj/
 Disallow: /header.php
 Disallow: /footer.php
 Disallow: /grupoj.php

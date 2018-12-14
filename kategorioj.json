@@ -27,22 +27,25 @@
         ],
         "Ludoj": [
             "homlupo",
-            "homlupoamnezia",
             "kartojkontraŭesperantujo",
-            "ludemuloj",
+            "videoludemuloj",
             "ludojenesperanto",
             "minecraft",
             "pokemongo",
-            "ŝakludantoj"
+            "ŝakludantoj",
+            "tabuloludemuloj"
         ],
         "Agado": [
             "agadujo",
             "amikumu",
+            "ilei",
+            "jefo",
             "laboren",
             "muzaiko",
             "pasportaservo",
             "tejotelegrame",
             "telegramo",
+            "uea",
             "varbado",
             "vikipedioagado",
             "zagrebametodo"
@@ -62,8 +65,10 @@
         "Eventoj": [
             "ijk",
             "jes",
+            "kkps",
             "paralelauniverso",
             "roskilde",
+            "ses",
             "uk"
         ],
         "Amaskomunikiloj": [
@@ -72,11 +77,13 @@
             "polaretradio"
         ],
         "Regionoj": [
+            "brazilamovado",
             "regiono afriko",
             "regiono ameriko",
             "regiono barcelono",
             "regiono bavario",
             "regiono berlino",
+            "regiono bonaero",
             "regiono brazilo",
             "regiono filadelfio",
             "regiono francilio",
@@ -96,6 +103,7 @@
             "dormikajsonĝi",
             "enigmoj",
             "esperantokajteĥniko",
+            "eventaservo",
             "filmtekstfarado",
             "floramantoj",
             "historio",
@@ -156,6 +164,7 @@
             "dulingva ko"
         ],
         "Aliaj naturaj": [
+            "dulingva eu",
             "dulingva fi",
             "dulingva gn",
             "dulingva hu",
@@ -166,7 +175,7 @@
         ],
         "Planlingvaj": {
             "Artlingvoj": [
-                "dulingva artarwelo",
+                "dulingva artmundezo",
                 "dulingva arteglievalyria",
                 "dulingva arttokipona",
                 "dulingva jbo",
@@ -174,8 +183,8 @@
             ],
             "Helplingvoj": [
                 "dulingva artpandunia",
-                "dulingva avk",
                 "dulingva ia",
+                "dulingva artheli",
                 "dulingva io",
                 "dulingva vo"
             ]

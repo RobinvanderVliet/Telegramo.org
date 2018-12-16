@@ -17,6 +17,15 @@ foreach ($grupoj as $grupo) {
 			}
 
 			$nunaGrupo = $grupo;
+
+			$ligilo = "https://t.me";
+
+			if (substr($grupo["ligilo"], 0, 1) !== "/") {
+				$ligilo .= "/joinchat/";
+			}
+
+			$ligilo .= $grupo["ligilo"];
+
 			break;
 		}
 	}
@@ -26,50 +35,74 @@ if ($nunaGrupo == null) {
 	exit;
 }
 
+$ĉifritaLigilo = "";
+$pasvorto = "esperanto";
+
+for ($i = 0; $i < mb_strlen($ligilo); $i++) {
+	$ĉifritaLigilo .= $ligilo[$i] ^ $pasvorto[$i % mb_strlen($pasvorto)];
+}
+
+$ĉifritaLigilo = base64_encode($ĉifritaLigilo);
+
 ?><!DOCTYPE html>
 <html lang="eo">
-	<head>
-		<meta charset="utf-8">
-		<meta name="robots" content="noindex,nofollow">
-		<title>Telegram-grupo: <?php echo $nunaGrupo["nomo"]; ?></title>
-		<meta property="og:title" content="<?php echo $nunaGrupo["nomo"]; ?>">
-		<meta property="og:site_name" content="Telegramo.org">
-		<?php
+<head>
+	<meta charset="utf-8">
+	<meta name="robots" content="noindex,nofollow">
+	<title>Telegram-grupo: <?php echo htmlentities($nunaGrupo["nomo"], ENT_QUOTES); ?></title>
+	<meta property="og:title" content="<?php echo htmlentities($nunaGrupo["nomo"], ENT_QUOTES); ?>">
+	<meta property="og:site_name" content="Telegramo.org">
+	<?php
 
-		if (file_exists("/var/www/telegramo/grupbildoj/" . $nunaGrupo["subdomajno"][0] . ".jpg")) {
-			echo "<meta property=\"og:image\" content=\"https://telegramo.org/grupbildoj/" . $nunaGrupo["subdomajno"][0] . ".jpg\">";
+	if (file_exists("/var/www/telegramo/grupbildoj/" . $nunaGrupo["subdomajno"][0] . ".jpg")) {
+		echo "<meta property=\"og:image\" content=\"https://telegramo.org/grupbildoj/" . $nunaGrupo["subdomajno"][0] . ".jpg\">";
+	}
+
+	if (isset($nunaGrupo["gruppriskribo"])) {
+		echo "<meta property=\"og:description\" content=\"" . htmlentities($nunaGrupo["gruppriskribo"], ENT_QUOTES) . "\">";
+	}
+
+	?>
+	<script>
+		function setPassword(value, days) {
+			var d = new Date;
+			d.setTime(d.getTime() + 86400000 * days);
+			document.cookie = "pasvorto=" + value + ";path=/;domain=telegramo.org;expires=" + d.toGMTString();
 		}
 
-		if (isset($nunaGrupo["gruppriskribo"])) {
-			echo "<meta property=\"og:description\" content=\"" . $nunaGrupo["gruppriskribo"] . "\">";
-		}
+		for (provoj = 0; provoj < 5; provoj++) {
+			var valoro = document.cookie.match("(^|;) ?pasvorto=([^;]*)(;|$)");
+			var pasvorto = valoro ? valoro[2] : null;
 
-		?>
-		<script>
-		function onloadCallback(){
-			grecaptcha.execute();
-		}
-		function onSubmit(code) {
-			var xhttp = new XMLHttpRequest();
-			xhttp.onreadystatechange = function() {
-				if (this.readyState === 4 && this.status === 200 && this.responseText !== "") {
-					window.location.replace(atob(this.responseText));
+			if (pasvorto === null) {
+				pasvorto = prompt("Bonvolu respondi al la sekva demando por pruvi, ke vi estas homo kaj ne roboto.\n\nKiel nomiĝas nia lingvo?", "");
+			}
+
+			if (pasvorto !== null && pasvorto !== "") {
+				pasvorto = pasvorto.toLowerCase();
+
+				var teksto = atob("<?php echo $ĉifritaLigilo; ?>");
+				var pasvortoDisigita = pasvorto.split("");
+				var ligilo = "";
+
+				for (var i = 0; i < teksto.length; i++) {
+					ligilo = ligilo + String.fromCharCode(teksto[i].charCodeAt(0) ^ pasvortoDisigita[i % pasvortoDisigita.length].charCodeAt(0));
 				}
-			};
-			xhttp.open("POST", "ligilo.php", true);
-			xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-			xhttp.send("code=" + code);
+
+				if (ligilo.indexOf("https://t.me/") === 0) {
+					setPassword(pasvorto, 90);
+					window.location.replace(ligilo);
+				} else {
+					setPassword("", -1);
+				}
+			}
 		}
-		</script>
-		<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback" async defer></script>
-	</head>
-	<body style="text-align:center;font-size:xx-large">
-		<br><br><br>
-		Ĉi tiu paĝo tuj plusendas vin al la Telegram-grupo. Se tio ne okazas, vi verŝajne malŝaltis JavaScript.
-		<div class="g-recaptcha"
-			data-sitekey="6LcFs2EUAAAAAHeH7Vuve8r48GZOE63NV75LmoKo"
-			data-callback="onSubmit"
-			data-size="invisible">
-		</div>
-	</body>
+	</script>
+</head>
+<body style="text-align:center;font-size:xx-large">
+	<br><br><br>
+	Ĉi tiu paĝo plusendas vin al la Telegram-grupo post ĝusta respondo al la demando. Se vi ne ricevis demandon, vi verŝajne malŝaltis JavaScript.
+	<br><br>
+	Provu kontakti <a href="https://t.me/Robin">@Robin</a> per Telegram por helpo!
+</body>
 </html>
